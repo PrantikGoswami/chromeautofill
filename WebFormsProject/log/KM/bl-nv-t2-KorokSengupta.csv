@@ -1,0 +1,22 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Keyboard +2-0,Nancy,TEXT,1597101988400,,1597101990877
+lastname,Autofill,Drew,TEXT,1597101990903,,1597101990906
+address,Autofill,"69, Seeawl Lane",TEXT,1597101990913,,1597101990917
+country,Autofill,USA,SELECT,1597101990924,,1597101990933
+pin,Autofill,07101,TEXT,1597101990940,,1597101990944
+email,Autofill,nancy.drew@sleuth.com,TEXT,1597101990954,,1597101990957
+phone,Autofill,128665980,TEXT,1597101990964,,1597101990967
+city,Autofill,River Heights,TEXT,1597101990974,,1597101990977
+firstname,Keyboard +2-0,Nancy,TEXT,1597101988400,,1597101991224
+firstname,Autofill,Nancy,TEXT,1597101990895,,1597101991237
+firstname,Autofill,Nancy,TEXT,1597101990987,,1597101991252
+state,Keyboard +4-0,Florida,TEXT,1597101996105,,1597101998400
+state,Keyboard +4-0,Florida,TEXT,1597101996105,,1597101998640
+state,Autofill,Florida,TEXT,1597101998414,,1597101998654
+state,Autofill,Florida,TEXT,1597101998418,,1597101998666
+profession,Autofill,detective,SELECT,1597102000907,,1597102005446
+landmark,Keyboard +3-0,Police Station,TEXT,1597102007020,,1597102009798
+gender,Mouse Click,female,RADIO,1597102012673,,1597102013100
+vehicle,Mouse Click,boat,CHECKBOX,1597102015188,,1597102015505
+range,Autofill,25,RANGE,1597102017505,,1597102022016
+description,Keyboard +28-1,Details about Nancy Drew,TEXTAREA,1597102024314,,1597102035980

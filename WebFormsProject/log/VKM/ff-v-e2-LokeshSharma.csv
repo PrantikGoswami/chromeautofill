@@ -1,0 +1,6 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender male,True,male,RADIO,1597922945138,1597922948059,1597922948065
+hey Google,False,,,1597922948918,1597922949803,
+vehicle boat,True,boat,CHECKBOX,1597922951434,1597922954272,1597922954279
+description any description,True,any description,TEXTAREA,1597922955113,1597922957925,1597922957931
+save,True,,,1597922958650,1597922960502,1597922960509

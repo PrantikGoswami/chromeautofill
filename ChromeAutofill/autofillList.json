@@ -1,0 +1,363 @@
+[   
+   {
+         "addressLevel1":"",
+         "addressLevel2":"Surrey",
+         "addressLevel3":"",
+         "addressLines":"4, Privet Drive",
+         "companyName":"",
+         "countryCode":"United Kingdom",
+         "emailAddresses":[
+            "harry.potter@hogwarts.com"
+         ],
+         "fullNames":[
+            "Harry Potter"
+         ],
+         "guid":"32af63db-2441-4b7a-8f85-2257375a7894",
+         "languageCode":"",
+         "metadata":{
+            "isLocal":true,
+            "namepronounciation":[
+               "Harry Potter",
+               "harry potter",
+               "Harry",
+               "Potter",
+               "harry",
+               "potter"
+            ],
+            "streetpronounciation":[
+            ],
+            "summaryLabel":"Harry Potter",
+            "summarySublabel":", 4, Privet Drive"
+         },
+         "phoneNumbers":[
+
+         ],
+         "postalCode":"RG12 9FG",
+         "sortingCode":""
+   },
+   {
+         "addressLevel1":"",
+         "addressLevel2":"River Heights",
+         "addressLevel3":"",
+         "addressLines":"69, Seeawl Lane",
+         "companyName":"",
+         "countryCode":"USA",
+         "emailAddresses":[
+            "nancy.drew@sleuth.com"
+         ],
+         "fullNames":[
+            "Nancy Drew"
+         ],
+         "guid":"32af63db-2441-4b7a-8f85-2257375a7894",
+         "languageCode":"",
+         "metadata":{
+            "isLocal":true,
+            "namepronounciation":[
+               "Nancy Drew",
+               "nancy drew",
+               "Nancy",
+               "nancy",
+               "Drew",
+               "drew"
+            ],
+            "streetpronounciation":[
+            ],
+            "summaryLabel":"Nancy Drew",
+            "summarySublabel":", 69, Seeawl Lane"
+         },
+         "phoneNumbers":[
+            "1286659805"
+
+         ],
+         "postalCode":"07101",
+         "sortingCode":""
+   },
+   {
+         "addressLevel1":"",
+         "addressLevel2":"London",
+         "addressLevel3":"",
+         "addressLines":"221B, Baker Street",
+         "companyName":"",
+         "countryCode":"United Kingdom",
+         "emailAddresses":[
+            "sherlock@gov.uk"
+         ],
+         "fullNames":[
+            "Sherlock Holmes"
+         ],
+         "guid":"32af63db-2441-4b7a-8f85-2257375a7894",
+         "languageCode":"",
+         "metadata":{
+            "isLocal":true,
+            "namepronounciation":[
+               "Sherlock Holmes",
+               "sherlock holmes",
+               "Sherlock",
+               "sherlock",
+               "Holmes",
+               "holmes"
+            ],
+            "streetpronounciation":[
+            ],
+            "summaryLabel":"Sherlock Holmes",
+            "summarySublabel":", 221B, Baker Street"
+         },
+         "phoneNumbers":[
+            "1747503639"
+
+         ],
+         "postalCode":"NW1 6XE",
+         "sortingCode":""
+   },
+   {
+         "addressLevel1":"",
+         "addressLevel2":"London",
+         "addressLevel3":"",
+         "addressLines":"221B, Baker Street",
+         "companyName":"",
+         "countryCode":"United Kingdom",
+         "emailAddresses":[
+            "johnw@beingdoctor.com"
+         ],
+         "fullNames":[
+            "John Watson"
+         ],
+         "guid":"32af63db-2441-4b7a-8f85-2257375a7894",
+         "languageCode":"",
+         "metadata":{
+            "isLocal":true,
+            "namepronounciation":[
+               "John Watson",
+               "john watson",
+               "John",
+               "john",
+               "Watson",
+               "watson"
+            ],
+            "streetpronounciation":[
+            ],
+            "summaryLabel":"John Watson",
+            "summarySublabel":", 221B, Baker Street"
+         },
+         "phoneNumbers":[
+            "0112634888"
+
+         ],
+         "postalCode":"NW1 6XE",
+         "sortingCode":""
+   },
+   {
+         "addressLevel1":"",
+         "addressLevel2":"Gotham",
+         "addressLevel3":"",
+         "addressLines":"1007 Mountain Drive",
+         "companyName":"",
+         "countryCode":"USA",
+         "emailAddresses":[
+            "batbruce@rich.com"
+         ],
+         "fullNames":[
+            "Bruce Wayne"
+         ],
+         "guid":"32af63db-2441-4b7a-8f85-2257375a7894",
+         "languageCode":"",
+         "metadata":{
+            "isLocal":true,
+            "namepronounciation":[
+               "Bruce Wayne",
+               "bruce wayne",
+               "Bruce",
+               "bruce",
+               "Wayne",
+               "wayne"
+            ],
+            "streetpronounciation":[
+            ],
+            "summaryLabel":"Bruce Wayne",
+            "summarySublabel":",1007 Mountain Drive"
+         },
+         "phoneNumbers":[
+            "1122334478"
+
+         ],
+         "postalCode":"07001",
+         "sortingCode":""
+   },
+   {
+         "addressLevel1":"",
+         "addressLevel2":"Metropolis",
+         "addressLevel3":"",
+         "addressLines":"344 Clinton Street, Apartment 3D",
+         "companyName":"",
+         "countryCode":"USA",
+         "emailAddresses":[
+            "superclark@journo.com"
+         ],
+         "fullNames":[
+            "Clark Kent"
+         ],
+         "guid":"32af63db-2441-4b7a-8f85-2257375a7894",
+         "languageCode":"",
+         "metadata":{
+            "isLocal":true,
+            "namepronounciation":[
+               "Clark Kent",
+               "clark kent",
+               "clark",
+               "Clark",
+               "Kent",
+               "kent"
+            ],
+            "streetpronounciation":[
+            ],
+            "summaryLabel":"Clark Kent",
+            "summarySublabel":",344 Clinton Street, Apartment 3D"
+         },
+         "phoneNumbers":[
+            "191167720"
+
+         ],
+         "postalCode":"62960",
+         "sortingCode":""
+   },
+   {
+         "addressLevel1":"",
+         "addressLevel2":"Exeter",
+         "addressLevel3":"",
+         "addressLines":"Abbey Road, New Hampshire",
+         "companyName":"",
+         "countryCode":"USA",
+         "emailAddresses":[
+            "rlangdont@lostsymbols.com"
+         ],
+         "fullNames":[
+            "Robert Langdon"
+         ],
+         "guid":"32af63db-2441-4b7a-8f85-2257375a7894",
+         "languageCode":"",
+         "metadata":{
+            "isLocal":true,
+            "namepronounciation":[
+               "Robert Langdon",
+               "robert langdon",
+               "Robert",
+               "robert",
+               "Lngdon",
+               "langdon"
+            ],
+            "streetpronounciation":[
+            ],
+            "summaryLabel":"Robert Langdon",
+            "summarySublabel":",Abbey Road, New Hampshire"
+         },
+         "phoneNumbers":[
+            "26711290"
+
+         ],
+         "postalCode":"038333",
+         "sortingCode":""
+   },
+   {
+         "addressLevel1":"",
+         "addressLevel2":"Philadelphia",
+         "addressLevel3":"",
+         "addressLines":"1818 E. Tusculum Street",
+         "companyName":"",
+         "countryCode":"USA",
+         "emailAddresses":[
+            "balboar@stallone.com"
+         ],
+         "fullNames":[
+            "Rocky Balboa"
+         ],
+         "guid":"32af63db-2441-4b7a-8f85-2257375a7894",
+         "languageCode":"",
+         "metadata":{
+            "isLocal":true,
+            "namepronounciation":[
+            ],
+            "streetpronounciation":[
+            ],
+            "summaryLabel":"Rocky Balboa",
+            "summarySublabel":",1818 E. Tusculum Street"
+         },
+         "phoneNumbers":[
+            "786653201"
+
+         ],
+         "postalCode":"19019",
+         "sortingCode":""
+   },
+   {
+         "addressLevel1":"",
+         "addressLevel2":"New Mexico",
+         "addressLevel3":"",
+         "addressLines":"308 Negra Arroyo Lane, Albuquerque",
+         "companyName":"",
+         "countryCode":"USA",
+         "emailAddresses":[
+            "white@bluemeth.com"
+         ],
+         "fullNames":[
+            "Walter White"
+         ],
+         "guid":"32af63db-2441-4b7a-8f85-2257375a7894",
+         "languageCode":"",
+         "metadata":{
+            "isLocal":true,
+            "namepronounciation":[
+            ],
+            "streetpronounciation":[
+            ],
+            "summaryLabel":"Walter White",
+            "summarySublabel":",308 Negra Arroyo Lane, Albuquerque"
+         },
+         "phoneNumbers":[
+            "0028876110"
+
+         ],
+         "postalCode":"87112",
+         "sortingCode":""
+   },
+   {
+         "addressLevel1":"",
+         "addressLevel2":"Miami",
+         "addressLevel3":"",
+         "addressLines":"5860 North Bay Road",
+         "companyName":"",
+         "countryCode":"USA",
+         "emailAddresses":[
+            "escobar@netflix.com"
+         ],
+         "fullNames":[
+            "Pablo Escobar"
+         ],
+         "guid":"32af63db-2441-4b7a-8f85-2257375a7894",
+         "languageCode":"",
+         "metadata":{
+            "isLocal":true,
+            "namepronounciation":[
+               "Pablo Escobar",
+               "Pablo",
+               "Escobar",
+               "pablo escobar",
+               "pablo",
+               "escobar"
+            ],
+            "streetpronounciation":[
+               "North Bay Road",
+               "North Bay",
+               "north bay road",
+               "north bay"
+            ],
+            "summaryLabel":"Pablo Escobar",
+            "summarySublabel":",5860 North Bay Road"
+         },
+         "phoneNumbers":[
+            "0112276899"
+
+         ],
+         "postalCode":"33140",
+         "sortingCode":""
+   }
+]

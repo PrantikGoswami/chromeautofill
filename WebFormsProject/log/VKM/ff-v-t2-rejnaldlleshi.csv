@@ -1,0 +1,6 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+vehicle boat,True,boat,CHECKBOX,1597912315967,1597912319831,1597912319895
+fashion detective,False,,,1597912321534,1597912324023,
+profession detective,True,detective,SELECT,1597912325075,1597912328052,1597912328095
+last name Drew,True,Drew,TEXT,1597912329557,1597912331832,1597912331871
+save,True,,,1597912333315,1597912335151,1597912335224

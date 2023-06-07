@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender,Mouse Click,male,RADIO,1597820596663,,1597820598918
+vehicle,Mouse Click,boat,CHECKBOX,1597820600122,,1597820602454
+description,Keyboard +29-2,A Sherlock holmes character,TEXTAREA,1597820602463,,1597820619341
+save,Mouse Click,,SUBMIT,1597820619351,,1597820619424

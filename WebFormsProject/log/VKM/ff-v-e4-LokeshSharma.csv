@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender male,True,male,RADIO,1597922989506,1597922992455,1597922992463
+email Escobar at netflix.com,True,escobar@netflix.com,TEXT,1597922993212,1597922997045,1597922997052
+description and description,True,and description,TEXTAREA,1597922998457,1597923001500,1597923001505
+save,True,,,1597923002419,1597923004290,1597923004298

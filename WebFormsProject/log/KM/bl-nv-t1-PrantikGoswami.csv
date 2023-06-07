@@ -1,0 +1,17 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,Harry,TEXT,1597003180773,,1597003181593
+lastname,Autofill,Potter,TEXT,1597003181620,,1597003181624
+address,Autofill,"4, Privet Drive",TEXT,1597003181635,,1597003181641
+country,Autofill,United Kingdom,SELECT,1597003181653,,1597003181662
+pin,Autofill,RG12 9FG,TEXT,1597003181672,,1597003181675
+email,Autofill,harry.potter@hogwarts.com,TEXT,1597003181687,,1597003181690
+city,Autofill,Surrey,TEXT,1597003181701,,1597003181706
+firstname,Autofill,Harry,TEXT,1597003180773,,1597003182006
+firstname,Autofill,Harry,TEXT,1597003181616,,1597003182029
+firstname,Autofill,Harry,TEXT,1597003181715,,1597003182054
+phone,Keyboard +9-0,098433457,TEXT,1597003185293,,1597003194641
+state,Keyboard +8-0,Watford,TEXT,1597003196868,,1597003201300
+gender,Autofill,male,RADIO,1597003203330,,1597003203751
+vehicle,Autofill,bike,CHECKBOX,1597003205588,,1597003206009
+range,Autofill,20,RANGE,1597003207643,,1597003213424
+description,Keyboard +35-0,Description about Harry Potter.,TEXTAREA,1597003214359,,1597003229107

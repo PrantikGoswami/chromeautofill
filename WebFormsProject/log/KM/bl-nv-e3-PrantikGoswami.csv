@@ -1,0 +1,17 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,Bruce,TEXT,1598034812797,,1598034814646
+lastname,Autofill,Wayne,TEXT,1598034814653,,1598034814657
+address,Autofill,1007 Mountain Drive,TEXT,1598034814668,,1598034814674
+country,Autofill,USA,SELECT,1598034814686,,1598034814696
+pin,Autofill,07001,TEXT,1598034814708,,1598034814711
+email,Autofill,batbruce@rich.com,TEXT,1598034814723,,1598034814727
+phone,Autofill,12233447890,TEXT,1598034814737,,1598034814742
+city,Autofill,Gotham,TEXT,1598034814752,,1598034814758
+state,Autofill,New York,TEXT,1598034814775,,1598034814779
+profession,Mouse Click,CEO,SELECT,1598034815667,,1598034820360
+landmark,Keyboard +5-0,Hospital,TEXT,1598034820384,,1598034824329
+gender,Mouse Click,male,RADIO,1598034826373,,1598034827351
+vehicle,Mouse Click,bike,CHECKBOX,1598034828805,,1598034829573
+range,Mouse Click,38,RANGE,1598034831130,,1598034834158
+description,Keyboard +44-2,Bruce Wayne is the Batman of DC universe. ,TEXTAREA,1598034834750,,1598034855965
+save,Mouse Click,,SUBMIT,1598034857257,,1598034857342

@@ -1,0 +1,11 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender reveal,True,reveal,FORM,1597758562338,1597758566153,
+bacon boat,False,,,1597758566870,1597758569685,
+gender male,True,male,RADIO,1597758571911,1597758574768,1597758574774
+vacant boat,False,,,1597758576445,1597758579139,
+goggle bugle vehicle,False,,,1597758581854,1597758584877,
+vacant,False,,,1597758586407,1597758588357,
+report vehicle boat,False,,,1597758591371,1597758593633,
+description test,True,test,TEXTAREA,1597758595262,1597758599040,1597758599047
+vehicle,Mouse Click,boat,CHECKBOX,1597758603628,,1597758606806
+save,True,,,1597758608018,1597758609837,1597758609842

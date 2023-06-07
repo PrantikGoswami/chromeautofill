@@ -1,0 +1,22 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender reveal,True,reveal,FORM,1597089986396,1597089989859,1597089989868
+gender reveal,True,reveal,FORM,1597089991897,1597089995607,1597089995620
+Miele,False,,,1597089996623,1597089997923,1597089997933
+unit,False,,,1597090003766,1597090006056,1597090006067
+mail,False,,,1597090007084,1597090009640,1597090009653
+email,True,,,1597090011388,1597090013538,1597090013548
+Email discover@netflix.com,True,discover@netflix.com,TEXT,1597090014280,1597090017864,1597090017877
+email,True,,,1597090020881,1597090022898,1597090022912
+Email isscuba@netflix.com,True,isscuba@netflix.com,TEXT,1597090023801,1597090028856,1597090028867
+email,Keyboard +7-7,escobar@netflix.com,TEXT,1597090033707,,1597090047036
+description,True,,,1597090048690,1597090050833,1597090050844
+Description this is a short description about Pablo Escobar who had a Netflix series dedicated for him,True,this is a short description about Pablo Escobar who had a Netflix series dedicated for him,TEXTAREA,1597090051578,1597090060347,1597090060358
+seal,False,,,1597090061602,1597090063418,1597090063428
+gender,True,,,1597090064676,1597090066772,1597090066784
+Gender sleep,True,sleep,FORM,1597090067572,1597090068974,1597090068989
+gender mean,True,mean,FORM,1597090069880,1597090073578,1597090073588
+email,Keyboard +7-7,escobar@netflix.com,TEXT,1597090033707,,1597090076853
+email,Autofill,escobar@netflix.com,TEXT,1597090047045,,1597090076859
+email,Autofill,escobar@netflix.com,TEXT,1597090076849,,1597090076863
+gender,Mouse Click,male,RADIO,1597090076871,,1597090081287
+save,True,,,1597090082252,1597090084344,1597090084353

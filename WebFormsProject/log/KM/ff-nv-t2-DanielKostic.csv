@@ -1,0 +1,14 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+lastname,Keyboard +5-0,Drew,TEXT,1597223783918,,1597223787671
+firstname,Autofill,Nancy,TEXT,1597223787678,,1597223787678
+address,Autofill,"69, Seeawl Lane",TEXT,1597223787684,,1597223787685
+country,Autofill,USA,SELECT,1597223787696,,1597223787698
+pin,Autofill,07101,TEXT,1597223787709,,1597223787712
+email,Autofill,nancy.drew@sleuth.com,TEXT,1597223787718,,1597223787719
+phone,Autofill,128665980,TEXT,1597223787730,,1597223787735
+city,Autofill,River Heights,TEXT,1597223787748,,1597223787749
+lastname,Keyboard +5-0,Drew,TEXT,1597223783918,,1597223791454
+lastname,Autofill,Drew,TEXT,1597223787675,,1597223791458
+lastname,Autofill,Drew,TEXT,1597223787756,,1597223791468
+vehicle,Mouse Click,boat,CHECKBOX,1597223791481,,1597223791990
+profession,Autofill,detective,SELECT,1597223793886,,1597223798270

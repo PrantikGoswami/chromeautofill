@@ -1,0 +1,6 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender,Mouse Click,male,RADIO,1597820652741,,1597820655151
+email,Keyboard +2-6,escobar@netflix.com,TEXT,1597820655157,,1597820660000
+description,Keyboard +28-0,Pablo Escobar is from Mexixo,TEXTAREA,1597820662014,,1597820675728
+description,Keyboard +1-1,Pablo Escobar is from Mexico,TEXTAREA,1597820662014,,1597820680934
+save,Mouse Click,,SUBMIT,1597820680946,,1597820681747

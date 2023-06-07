@@ -1,0 +1,10 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+last name video,True,Video,TEXT,1597758462903,1597758466546,1597758466559
+last name video,True,Video,TEXT,1597758467968,1597758470607,1597758470614
+preposition detective,False,,,1597758472836,1597758475173,
+profession detective,True,detective,SELECT,1597758476712,1597758479239,1597758479244
+vehicle by boat,True,by boat,FORM,1597758481273,1597758484529,
+bacon boat,False,,,1597758485957,1597758488287,
+vehicle boat,True,boat,CHECKBOX,1597758490005,1597758492695,1597758492702
+last name Drew,True,Drew,TEXT,1597758493812,1597758496791,1597758496798
+save,True,,,1597758499323,1597758501359,1597758501372

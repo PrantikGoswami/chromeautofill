@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender male,True,male,RADIO,1597139333747,1597139336875,1597139336883
+email Escobar at netflix.com,True,escobar@netflix.com,TEXT,1597139338190,1597139343321,1597139343327
+description this is a short description about Pablo Escobar,True,this is a short description about Pablo Escobar,TEXTAREA,1597139345052,1597139350693,1597139350699
+save,True,,,1597139352115,1597139353851,1597139353859

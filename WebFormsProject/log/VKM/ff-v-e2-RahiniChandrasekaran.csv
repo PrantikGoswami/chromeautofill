@@ -1,0 +1,10 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender male,True,male,RADIO,1597139229609,1597139233049,1597139233058
+bored,False,,,1597139233998,1597139237759,
+the hinkle board,False,,,1597139238471,1597139242674,
+description,True,,,1597139245204,1597139247860,
+Description this is a short description about John Watson,True,this is a short description about John Watson,TEXTAREA,1597139248638,1597139252925,1597139252934
+Ricoh,False,,,1597139254842,1597139257105,
+miheeka,False,,,1597139258422,1597139260604,
+vehicle,Mouse Click,boat,CHECKBOX,1597139265919,,1597139269162
+save,True,,,1597139270470,1597139272517,1597139272524

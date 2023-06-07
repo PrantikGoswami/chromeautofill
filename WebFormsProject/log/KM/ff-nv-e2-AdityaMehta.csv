@@ -1,0 +1,4 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender,Mouse Click,male,RADIO,1597133941669,,1597133944194
+vehicle,Mouse Click,boat,CHECKBOX,1597133944206,,1597133945250
+description,Keyboard +39-0,Filling details for John from London,TEXTAREA,1597133945257,,1597133955989

@@ -1,0 +1,6 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+email,True,,,1597907456764,1597907458436,
+Email escobar@netflix.com,True,escobar@netflix.com,TEXT,1597907459156,1597907462093,1597907462101
+gender male,True,male,RADIO,1597907463865,1597907466948,1597907466956
+description short description about Pablo Escobar from Netflix series,True,short description about Pablo Escobar from Netflix series,TEXTAREA,1597907468261,1597907474506,1597907474516
+save,True,,,1597907475635,1597907477416,1597907477422

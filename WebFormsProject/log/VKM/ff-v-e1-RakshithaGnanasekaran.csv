@@ -1,0 +1,6 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+phone 17 for 750 3639,True,1747503639,TEXT,1597734689239,1597734695868,1597734695876
+email Sherlock at gov.uk,True,sherlock@gov.uk,TEXT,1597734698681,1597734705267,1597734705275
+age 35,True,35,RANGE,1597734708211,1597734710588,1597734710594
+Siri,False,,,1597734712223,1597734714072,
+save,True,,,1597734714814,1597734716549,1597734716652

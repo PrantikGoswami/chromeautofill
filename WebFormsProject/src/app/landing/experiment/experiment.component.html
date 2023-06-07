@@ -1,0 +1,23 @@
+<h3>{{pageTitle}}</h3><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<form [formGroup]="experimentForm" (ngSubmit)="onSubmit()" class="main-modal-content" *ngIf="experimentForm">
+    <div class="row">
+        <div class="col-2 text-center">
+            <button id="t1" class="btn btn-primary" style="width: 50px" type="button" (click)="openForm('t1')"> T1 </button>
+        </div>
+        <div class="col-2 text-center">
+            <button id="t2" class="btn btn-primary" style="width: 50px" type="button" (click)="openForm('t2')"> T2 </button>
+        </div>
+        <div class="col-2 text-center">
+            <button id="e1" class="btn btn-primary" style="width: 50px" type="button" (click)="openForm('e1')"> E1 </button>
+        </div>
+        <div class="col-2 text-center">
+            <button id="e2" class="btn btn-primary" style="width: 50px" type="button" (click)="openForm('e2')"> E2 </button>
+        </div>
+        <div class="col-2 text-center">
+            <button id="e3" class="btn btn-primary" style="width: 50px" type="button" (click)="openForm('e3')"> E3 </button>
+        </div>
+        <div class="col-2 text-center">
+            <button id="e4" class="btn btn-primary" style="width: 50px" type="button" (click)="openForm('e4')"> E4 </button>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,9 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+email Sherlock direct.gov.uk,True,Sherlock direct.gov.uk,TEXT,1597396924012,1597396930935,1597396930999
+email Sherlock edit,True,Sherlock edit,TEXT,1597396932124,1597396937794,1597396937863
+shut up and go 30ml,False,,,1597396939852,1597396947058,
+email Sherlock at gov.uk,True,sherlock@gov.uk,TEXT,1597396948179,1597396954885,1597396954896
+phone 17 for 750 3639,True,1747503639,TEXT,1597396956817,1597396964321,1597396964331
+h35,False,,,1597396966056,1597396968587,
+age 35,True,35,RANGE,1597396970399,1597396974180,1597396974186
+save,True,,,1597396975319,1597396977144,1597396977153

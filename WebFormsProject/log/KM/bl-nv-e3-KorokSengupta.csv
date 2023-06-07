@@ -1,0 +1,17 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,Bruce,TEXT,1598034173844,,1598034176552
+lastname,Autofill,Wayne,TEXT,1598034176577,,1598034176583
+address,Autofill,1007 Mountain Drive,TEXT,1598034176591,,1598034176595
+country,Autofill,USA,SELECT,1598034176606,,1598034176616
+pin,Autofill,07001,TEXT,1598034176631,,1598034176635
+email,Autofill,batbruce@rich.com,TEXT,1598034176644,,1598034176648
+phone,Autofill,12233447890,TEXT,1598034176659,,1598034176663
+city,Autofill,Gotham,TEXT,1598034176673,,1598034176676
+state,Autofill,New York,TEXT,1598034176683,,1598034176687
+profession,Mouse Click,CEO,SELECT,1598034178335,,1598034180560
+landmark,Keyboard +3-0,Hospital,TEXT,1598034181489,,1598034185040
+gender,Mouse Click,male,RADIO,1598034187081,,1598034187990
+vehicle,Mouse Click,bike,CHECKBOX,1598034190428,,1598034190935
+range,Mouse Click,38,RANGE,1598034193115,,1598034195220
+description,Keyboard +35-0,Bruce Wayne is actually the Batman.,TEXTAREA,1598034195949,,1598034211230
+save,Mouse Click,,SUBMIT,1598034212422,,1598034212533

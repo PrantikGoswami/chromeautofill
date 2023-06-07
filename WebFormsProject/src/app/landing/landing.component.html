@@ -1,0 +1,18 @@
+<h3>{{pageTitle}}</h3>
+<form [formGroup]="landingForm" (ngSubmit)="onSubmit()" class="main-modal-content" *ngIf="landingForm">
+    <div class="row form-group">
+        <div class="col-md-4 offset-1">
+            <label class="col-form-label text-bold ml-0">Enter Your Name</label>
+            <input class="form-control" id="name" placeholder="" type="text" formControlName="name" required>
+            <output style="color: red; font: 1em sans-serif; font-weight: bold;">{{outputText}}</output>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            <button id="noVoice" class="btn btn-primary float-right" style="width: 150px" type="button" (click)="toNoVoice()"> Keyboard+Mouse </button>
+        </div>
+        <div class="col-6">
+            <button id="voice" class="btn btn-primary" style="width: 200px" type="button" (click)="toVoice()"> Keyboard+Mouse+Voice </button>
+        </div>
+    </div>
+</form>

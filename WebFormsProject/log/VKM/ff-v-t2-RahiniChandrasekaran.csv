@@ -1,0 +1,6 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+last name Drew,True,Drew,TEXT,1597139129267,1597139132645,1597139132657
+efficient detective,False,,,1597139133520,1597139136789,
+vehicle boat,True,boat,CHECKBOX,1597139137908,1597139141057,1597139141065
+profession detective,True,detective,SELECT,1597139142982,1597139146362,1597139146369
+save,True,,,1597139148192,1597139150141,1597139150150

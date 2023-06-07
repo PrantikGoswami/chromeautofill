@@ -1,0 +1,19 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,Sherlock,TEXT,1597133409286,,1597133411249
+lastname,Autofill,Holmes,TEXT,1597133411260,,1597133411264
+address,Autofill,"221B, Baker Street",TEXT,1597133411276,,1597133411279
+country,Autofill,United Kingdom,SELECT,1597133411289,,1597133411305
+pin,Autofill,NW1 6XE,TEXT,1597133411317,,1597133411320
+email,Autofill,sherlock@gov.uk,TEXT,1597133411332,,1597133411337
+phone,Autofill,01747503639,TEXT,1597133411348,,1597133411350
+city,Autofill,London,TEXT,1597133411359,,1597133411368
+firstname,Autofill,Sherlock,TEXT,1597133409286,,1597133413078
+firstname,Autofill,Sherlock,TEXT,1597133411254,,1597133413081
+firstname,Autofill,Sherlock,TEXT,1597133411378,,1597133413084
+profession,Autofill,detective,SELECT,1597133413091,,1597133415486
+landmark,Autofill,Hospital,TEXT,1597133415493,,1597133420110
+state,Keyboard +8-0,England,TEXT,1597133420119,,1597133425127
+gender,Mouse Click,male,RADIO,1597133426782,,1597133429831
+vehicle,Mouse Click,car,CHECKBOX,1597133429844,,1597133432686
+range,Autofill,35,RANGE,1597133432695,,1597133436646
+description,Keyboard +66-6,Sherlock Holmes is a detective whose details reside here.,TEXTAREA,1597133436652,,1597133454152

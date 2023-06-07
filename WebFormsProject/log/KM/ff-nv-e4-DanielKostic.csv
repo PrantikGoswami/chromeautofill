@@ -1,0 +1,7 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender,Mouse Click,male,RADIO,1597223899520,,1597223900400
+email,Keyboard +20-1,escobar@netflix.com,TEXT,1597223901776,,1597223912392
+description,Keyboard +28-0,short description of escobar,TEXTAREA,1597223913975,,1597223921704
+description,Keyboard +4-3,short description of Escobar,TEXTAREA,1597223913975,,1597223928962
+description,Keyboard +5-3,short description of Escobar,TEXTAREA,1597223921707,,1597223928967
+description,Keyboard +6-3,short description of Escobar,TEXTAREA,1597223925360,,1597223928971

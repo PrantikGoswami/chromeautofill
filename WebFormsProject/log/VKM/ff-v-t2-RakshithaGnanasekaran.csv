@@ -1,0 +1,8 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+last name Drew,True,Drew,TEXT,1597734649173,1597734652232,1597734652237
+profession detective,True,detective,SELECT,1597734652957,1597734655339,1597734655352
+vaikal boat,False,,,1597734656155,1597734658753,
+nickel boat,False,,,1597734659420,1597734661418,
+play Go board,False,,,1597734663237,1597734666095,
+vehicle,Mouse Click,boat,CHECKBOX,1597734671134,,1597734673243
+save,True,,,1597734673961,1597734676020,1597734676026

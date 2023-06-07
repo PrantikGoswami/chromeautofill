@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender,Mouse Click,male,RADIO,1598034950032,,1598034951486
+vehicle,Mouse Click,boat,CHECKBOX,1598034954283,,1598034954821
+description,Keyboard +73-6,John Watson was the famous writer doctor friend of Sherlock Holmes.,TEXTAREA,1598034956253,,1598034985725
+save,Mouse Click,,SUBMIT,1598034986705,,1598034986836

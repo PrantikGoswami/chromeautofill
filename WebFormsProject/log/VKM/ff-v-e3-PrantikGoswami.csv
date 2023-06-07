@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+Country USA,True,USA,SELECT,1598025582561,1598025585117,1598025585126
+vehicle bike,True,bike,CHECKBOX,1598025588354,1598025590853,1598025590863
+age 38,True,38,RANGE,1598025592792,1598025595492,1598025595501
+save,True,,,1598025596380,1598025598105,1598025598113

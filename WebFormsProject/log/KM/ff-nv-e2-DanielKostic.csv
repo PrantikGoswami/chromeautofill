@@ -1,0 +1,4 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender,Mouse Click,male,RADIO,1597223853775,,1597223854479
+vehicle,Mouse Click,boat,CHECKBOX,1597223855839,,1597223856287
+description,Keyboard +26-0,description of john watson,TEXTAREA,1597223857551,,1597223867639

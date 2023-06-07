@@ -1,0 +1,19 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,Bruce,TEXT,1597133515015,,1597133516427
+lastname,Autofill,Wayne,TEXT,1597133516437,,1597133516438
+address,Autofill,1007 Mountain Drive,TEXT,1597133516448,,1597133516449
+country,Autofill,USA,SELECT,1597133516454,,1597133516461
+pin,Autofill,07001,TEXT,1597133516478,,1597133516481
+email,Autofill,batbruce@rich.com,TEXT,1597133516487,,1597133516488
+phone,Autofill,12233447890,TEXT,1597133516498,,1597133516501
+city,Autofill,Gotham,TEXT,1597133516515,,1597133516519
+state,Autofill,New York,TEXT,1597133516524,,1597133516527
+firstname,Autofill,Bruce,TEXT,1597133515015,,1597133518402
+firstname,Autofill,Bruce,TEXT,1597133516436,,1597133518407
+firstname,Autofill,Bruce,TEXT,1597133516540,,1597133518413
+profession,Autofill,CEO,SELECT,1597133518422,,1597133520815
+landmark,Autofill,Hospital,TEXT,1597133520823,,1597133524608
+gender,Mouse Click,male,RADIO,1597133524616,,1597133528680
+vehicle,Mouse Click,bike,CHECKBOX,1597133528688,,1597133531303
+range,Autofill,38,RANGE,1597133531310,,1597133533679
+description,Keyboard +51-6,NY guy Bruce is putting personal info here.,TEXTAREA,1597133533684,,1597133551792

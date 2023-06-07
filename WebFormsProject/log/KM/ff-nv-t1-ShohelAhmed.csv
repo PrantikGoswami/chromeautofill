@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+pin,Keyboard +1-0,RG12 9FG,TEXT,1597907927142,,1597907930228
+landmark,Keyboard +2-0,School,TEXT,1597907931108,,1597907935571
+gender,Mouse Click,male,RADIO,1597907935588,,1597907937065
+save,Mouse Click,,SUBMIT,1597907938511,,1597907938569

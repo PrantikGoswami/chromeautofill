@@ -1,0 +1,17 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,John,TEXT,1598034750180,,1598034751907
+lastname,Autofill,Watson,TEXT,1598034751918,,1598034751922
+address,Autofill,"221B, Baker Street",TEXT,1598034751933,,1598034751938
+country,Autofill,United Kingdom,SELECT,1598034751947,,1598034751955
+pin,Autofill,NW1 6XE,TEXT,1598034751964,,1598034751968
+email,Autofill,johnw@beingdoctor.com,TEXT,1598034751978,,1598034751983
+phone,Autofill,+12634888,TEXT,1598034751993,,1598034751997
+city,Autofill,London,TEXT,1598034752009,,1598034752013
+profession,Mouse Click,doctor,SELECT,1598034753090,,1598034759801
+landmark,Mouse Click,Library,TEXT,1598034760738,,1598034762458
+state,Keyboard +3-0,England,TEXT,1598034765371,,1598034769140
+gender,Mouse Click,male,RADIO,1598034774557,,1598034775078
+vehicle,Mouse Click,car,CHECKBOX,1598034776786,,1598034777193
+range,Mouse Click,36,RANGE,1598034778938,,1598034780891
+description,Keyboard +65-6,John watson was the doctor writer friend of Sherlock Holems,TEXTAREA,1598034781515,,1598034805774
+save,Mouse Click,,SUBMIT,1598034809332,,1598034809447

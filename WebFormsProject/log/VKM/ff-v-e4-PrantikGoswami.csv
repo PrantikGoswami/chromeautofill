@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+email Escobar at netflix.com,True,escobar@netflix.com,TEXT,1598025613931,1598025618710,1598025618722
+gender male,True,male,RADIO,1598025623241,1598025625721,1598025625731
+description this is a disgusting about Pablo Escobar,True,this is a disgusting about Pablo Escobar,TEXTAREA,1598025629250,1598025633450,1598025633458
+save,True,,,1598025636230,1598025639563,1598025639571

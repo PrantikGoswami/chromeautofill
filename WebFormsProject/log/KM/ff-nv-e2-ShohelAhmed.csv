@@ -1,0 +1,9 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender,Mouse Click,male,RADIO,1597907997926,,1597907999503
+vehicle,Mouse Click,boat,CHECKBOX,1597908001258,,1597908001912
+description,Keyboard +48-2,this is a short description about John Watson.,TEXTAREA,1597908002759,,1597908020112
+save,Mouse Click,,SUBMIT,1597908020124,,1597908020185
+gender,Mouse Click,male,RADIO,1597908032551,,1597908035393
+vehicle,Mouse Click,boat,CHECKBOX,1597908035399,,1597908037286
+description,Keyboard +45-0,this is a short description about John Watson,TEXTAREA,1597908037984,,1597908061007
+save,Mouse Click,,SUBMIT,1597908061016,,1597908061064

@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+pin RG12 9fg,True,RG12 9FG,TEXT,1597840923551,1597840932122,1597840932136
+landmark School,True,School,TEXT,1597840934868,1597840937892,1597840937903
+gender male,True,male,RADIO,1597840939808,1597840942056,1597840942066
+save,True,,,1597840943091,1597840945567,1597840945573

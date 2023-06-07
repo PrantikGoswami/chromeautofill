@@ -1,0 +1,17 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,Sherlock,TEXT,1597908269686,,1597908270431
+lastname,Autofill,Holmes,TEXT,1597908270438,,1597908270444
+address,Autofill,"221B, Baker Street",TEXT,1597908270452,,1597908270457
+country,Autofill,United Kingdom,SELECT,1597908270467,,1597908270478
+pin,Autofill,NW1 6XE,TEXT,1597908270490,,1597908270496
+email,Autofill,sherlock@gov.uk,TEXT,1597908270505,,1597908270509
+phone,Autofill,01747503639,TEXT,1597908270522,,1597908270526
+city,Autofill,London,TEXT,1597908270534,,1597908270537
+profession,Mouse Click,detective,SELECT,1597908273419,,1597908275026
+landmark,Autofill,Hospital,TEXT,1597908275036,,1597908277861
+state,Keyboard +7-0,England,TEXT,1597908277873,,1597908283591
+gender,Mouse Click,male,RADIO,1597908286255,,1597908286952
+vehicle,Mouse Click,car,CHECKBOX,1597908288674,,1597908289130
+range,Mouse Click,35,RANGE,1597908290285,,1597908294128
+description,Keyboard +34-1,short description Sherlock Holmes,TEXTAREA,1597908294842,,1597908308241
+save,Mouse Click,,SUBMIT,1597908309641,,1597908309699

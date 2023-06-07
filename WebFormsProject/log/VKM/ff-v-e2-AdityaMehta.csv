@@ -1,0 +1,7 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender male,True,male,RADIO,1597396989761,1597396992595,1597396992611
+Viking boat,False,,,1597396993714,1597396996402,
+vehicle boat,True,boat,CHECKBOX,1597396998028,1597397001384,1597397001392
+Vic,False,,,1597397002198,1597397004166,
+description details for John,True,details for John,TEXTAREA,1597397005585,1597397009418,1597397009423
+save,True,,,1597397010441,1597397012191,1597397012199

@@ -1,0 +1,16 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+helium,False,,,1597407410259,1597407412411,
+email,True,,,1597407413638,1597407415758,
+Email Escobar netflix.com,True,Escobar netflix.com,TEXT,1597407416769,1597407420056,1597407420065
+Escobar at netflix.com,False,,,1597407421777,1597407424998,
+email at netflix.com,True,@netflix.com,TEXT,1597407427215,1597407433582,1597407433588
+email,True,,,1597407436999,1597407439120,
+Email Escobar netflix.com,True,Escobar netflix.com,TEXT,1597407439954,1597407443116,1597407443123
+gender,True,,,1597407446637,1597407450197,
+Gender male,True,male,RADIO,1597407453822,1597407457397,1597407457409
+description,True,,,1597407458830,1597407461014,
+Description this is a shot description,True,this is a shot description,TEXTAREA,1597407461752,1597407464184,1597407464192
+Eamon,False,,,1597407466207,1597407468355,
+email,True,,,1597407469414,1597407471840,
+Email escobar@netflix.com,True,escobar@netflix.com,TEXT,1597407472557,1597407475888,1597407475896
+save,True,,,1597407477309,1597407479554,1597407479561

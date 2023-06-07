@@ -1,0 +1,12 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+email escoba at netflix.com,True,escoba@netflix.com,TEXT,1597841107383,1597841114494,1597841114500
+gender male,True,male,RADIO,1597841117320,1597841119796,1597841119802
+description Pablo Escobar was a bad guy,True,Pablo Escobar was a bad guy,TEXTAREA,1597841121538,1597841127174,1597841127184
+Steve,False,,,1597841127908,1597841130058,
+email,True,,,1597841132279,1597841134211,
+Email callbar@netflix.com,True,callbar@netflix.com,TEXT,1597841135033,1597841138711,1597841138721
+email eskobar,True,eskobar,TEXT,1597841140036,1597841147378,1597841147389
+add Netflix,False,,,1597841148512,1597841149967,
+email skober at,True,skober@,TEXT,1597841151193,1597841158716,1597841158726
+email score bar at netflix.com,True,scorebar@netflix.com,TEXT,1597841160867,1597841167665,1597841167672
+save,True,,,1597841170875,1597841172634,1597841172641

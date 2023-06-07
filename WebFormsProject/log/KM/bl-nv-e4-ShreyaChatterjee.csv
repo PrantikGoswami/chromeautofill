@@ -1,0 +1,17 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,Pablo,TEXT,1597821098836,,1597821100375
+lastname,Autofill,Escobar,TEXT,1597821100381,,1597821100383
+address,Autofill,5860 North Bay Road,TEXT,1597821100388,,1597821100391
+country,Autofill,USA,SELECT,1597821100400,,1597821100407
+pin,Autofill,33140,TEXT,1597821100418,,1597821100420
+email,Autofill,escobar@netflix.com,TEXT,1597821100428,,1597821100432
+phone,Autofill,0112276899,TEXT,1597821100446,,1597821100449
+city,Autofill,Miami,TEXT,1597821100461,,1597821100464
+state,Autofill,Florida,TEXT,1597821100475,,1597821100478
+profession,Mouse Click,drug lord,SELECT,1597821101829,,1597821106069
+landmark,Autofill,Laboratory,TEXT,1597821106078,,1597821110474
+gender,Autofill,male,RADIO,1597821110482,,1597821112012
+vehicle,Autofill,car,CHECKBOX,1597821116578,,1597821117354
+range,Mouse Click,40,RANGE,1597821123410,,1597821126791
+description,Keyboard +13-0,Pablo Escobar,TEXTAREA,1597821126798,,1597821134251
+save,Mouse Click,,SUBMIT,1597821134259,,1597821135358

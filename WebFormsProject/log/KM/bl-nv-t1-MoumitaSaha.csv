@@ -1,0 +1,17 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,Harry,TEXT,1597826806225,,1597826810126
+lastname,Autofill,Potter,TEXT,1597826810147,,1597826810153
+address,Autofill,"4, Privet Drive",TEXT,1597826810173,,1597826810179
+country,Autofill,United Kingdom,SELECT,1597826810195,,1597826810209
+pin,Autofill,RG12 9FG,TEXT,1597826810224,,1597826810231
+email,Autofill,harry.potter@hogwarts.com,TEXT,1597826810247,,1597826810253
+city,Autofill,Surrey,TEXT,1597826810273,,1597826810283
+profession,Mouse Click,student,SELECT,1597826813536,,1597826815791
+landmark,Mouse Click,School,TEXT,1597826815804,,1597826820256
+phone,Keyboard +2-0,5213961394,TEXT,1597826820272,,1597826826694
+state,Keyboard +2-0,Watford,TEXT,1597826826705,,1597826832367
+gender,Autofill,male,RADIO,1597826832386,,1597826833776
+vehicle,Mouse Click,bike,CHECKBOX,1597826841396,,1597826845978
+range,Mouse Click,20,RANGE,1597826845993,,1597826848774
+description,Keyboard +5-0,harrz,TEXTAREA,1597826848785,,1597826854645
+save,Mouse Click,,SUBMIT,1597826854655,,1597826856485

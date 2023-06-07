@@ -1,0 +1,22 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,Pablo,TEXT,1597133556112,,1597133557322
+lastname,Autofill,Escobar,TEXT,1597133557332,,1597133557335
+address,Autofill,5860 North Bay Road,TEXT,1597133557341,,1597133557343
+country,Autofill,USA,SELECT,1597133557352,,1597133557357
+pin,Autofill,33140,TEXT,1597133557367,,1597133557372
+email,Autofill,escobar@netflix.com,TEXT,1597133557383,,1597133557384
+phone,Autofill,0112276899,TEXT,1597133557390,,1597133557394
+city,Autofill,Miami,TEXT,1597133557406,,1597133557410
+state,Autofill,Florida,TEXT,1597133557420,,1597133557422
+firstname,Autofill,Pablo,TEXT,1597133556112,,1597133558585
+firstname,Autofill,Pablo,TEXT,1597133557328,,1597133558589
+firstname,Autofill,Pablo,TEXT,1597133557430,,1597133558593
+profession,Autofill,drug lord,SELECT,1597133558609,,1597133561096
+landmark,Keyboard +3-0,Laboratory,TEXT,1597133561106,,1597133568297
+gender,Autofill,male,RADIO,1597133568306,,1597133569119
+gender,Mouse Click,male,RADIO,1597133568306,,1597133571503
+gender,Mouse Click,male,RADIO,1597133569124,,1597133571506
+gender,Mouse Click,male,RADIO,1597133569744,,1597133571509
+vehicle,Mouse Click,car,CHECKBOX,1597133572407,,1597133574199
+range,Autofill,40,RANGE,1597133574204,,1597133577127
+description,Keyboard +63-1,"Pablo, the CEO guy does not fill the form, browser does it.",TEXTAREA,1597133577136,,1597133593336

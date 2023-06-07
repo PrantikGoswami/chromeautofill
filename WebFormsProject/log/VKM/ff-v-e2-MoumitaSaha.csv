@@ -1,0 +1,10 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender,True,,,1597740610233,1597740612309,
+Gender Jane de Mille,True,Jane de Mille,FORM,1597740615074,1597740618920,
+didn't mean,False,,,1597740620838,1597740623426,
+gender male,True,male,RADIO,1597740629440,1597740633063,1597740633069
+Meghan,False,,,1597740634779,1597740637055,
+vehicle bike,True,bike,CHECKBOX,1597740637876,1597740641534,1597740641542
+description experiment,True,experiment,TEXTAREA,1597740642849,1597740646831,1597740646849
+safe,False,,,1597740648170,1597740651528,
+save,True,,,1597740652242,1597740654721,1597740654726

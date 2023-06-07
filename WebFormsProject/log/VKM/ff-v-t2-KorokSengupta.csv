@@ -1,0 +1,7 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+last name dream,True,Dream,TEXT,1597089736619,1597089739181,1597089739192
+last name brew,True,Brew,TEXT,1597089741248,1597089743964,1597089764100
+last name Drew,True,Drew,TEXT,1597089765945,1597089769154,1597089769166
+vehicle boat,True,boat,CHECKBOX,1597089771371,1597089775244,1597089775262
+profession detective,True,detective,SELECT,1597089780099,1597089783433,1597089783450
+save,True,,,1597089786773,1597089788548,1597089788558

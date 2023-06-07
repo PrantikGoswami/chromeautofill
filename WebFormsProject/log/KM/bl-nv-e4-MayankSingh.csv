@@ -1,0 +1,17 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Keyboard +3-0,Pablo,TEXT,1597834986863,,1597834988889
+lastname,Autofill,Escobar,TEXT,1597834988896,,1597834988898
+address,Autofill,5860 North Bay Road,TEXT,1597834988903,,1597834988906
+country,Autofill,USA,SELECT,1597834988915,,1597834988924
+pin,Autofill,33140,TEXT,1597834988933,,1597834988935
+email,Autofill,escobar@netflix.com,TEXT,1597834988941,,1597834988944
+phone,Autofill,0112276899,TEXT,1597834988952,,1597834988959
+city,Autofill,Miami,TEXT,1597834988967,,1597834988969
+state,Autofill,Florida,TEXT,1597834988975,,1597834988977
+profession,Mouse Click,drug lord,SELECT,1597834990099,,1597834992321
+landmark,Autofill,Laboratory,TEXT,1597834992332,,1597834995000
+gender,Mouse Click,male,RADIO,1597834995010,,1597834997726
+vehicle,Mouse Click,car,CHECKBOX,1597834997731,,1597834999952
+range,Mouse Click,40,RANGE,1597834999964,,1597835001673
+description,Keyboard +7-0,Pablo,TEXTAREA,1597835001680,,1597835009669
+save,Mouse Click,,SUBMIT,1597835009730,,1597835011525

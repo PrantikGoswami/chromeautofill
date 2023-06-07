@@ -1,0 +1,262 @@
+<h3>{{pageTitle}}</h3>
+<form [formGroup]="blankFormGroup" (ngSubmit)="onSubmit()" class="main-modal-content" *ngIf="blankFormGroup">
+    <div class="row justify-content-center">
+        <div class="col-5">
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">First Name</label>
+                    <input class="form-control" id="firstname" placeholder="" type="text" formControlName="payment_account_holder">
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_firstname}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Last Name</label>
+                    <input class="form-control" id="lastname" placeholder="" type="text" formControlName="payment_account_holder">
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_lastname}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Address</label>
+                    <input class="form-control" id="address" placeholder="" type="text" formControlName="payment_account_holder">
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_address}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Country</label>
+                    <select class="form-control custom-select" id="country" placeholder="" formControlName="payment_account_holder">
+                        <option value="">-- Please select --</option>
+                        <option value="India">India</option>
+                        <option value="Germany">Germany</option>
+                        <option value="United Kingdom">United Kingdom</option>
+                        <option value="USA">United States of America</option>
+                    </select>
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_country}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Postal code</label>
+                    <input class="form-control" id="pin" placeholder="" type="text" 
+                    formControlName="payment_account_holder">
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_pin}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Email</label>
+                    <input class="form-control" id="email" placeholder="" type="text" 
+                    formControlName="payment_account_holder">
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_email}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Profession</label>
+                    <select class="form-control custom-select" id="profession" placeholder="" 
+                    formControlName="payment_account_holder">
+                        <option value="">-- Please select --</option>
+                        <option value="student">Student</option>
+                        <option value="professor">Professor</option>
+                        <option value="examiner">Examiner</option>
+                        <option value="researcher">Researcher</option>
+                        <option value="tutor">Tutor</option>
+                        <option value="drug lord">Drug Lord</option>
+                        <option value="detective">Detective</option>
+                        <option value="writer">Writer</option>
+                        <option value="CEO">CEO</option>
+                        <option value="journalist">Journalist</option>
+                        <option value="boxer">Boxer</option>
+                        <option value="doctor">Doctor</option>
+                    </select>
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_profession}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Landmark</label>
+                    <input list="names" class="form-control" id="landmark" type="text" 
+                    formControlName="payment_account_holder">
+                        <datalist id="names">
+                            <option value="school">
+                            <option value="university">
+                            <option value="hospital">
+                        </datalist>
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_landmark}}</div>
+                    </div>
+                </div>
+            </div> 
+        </div>
+        <div class="col-5">
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Mobile Number</label>
+                    <input class="form-control" id="phone" placeholder="" type="text" 
+                    formControlName="payment_account_holder">
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_phone}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">City</label>
+                    <input class="form-control" id="city" placeholder="" type="text" 
+                    formControlName="payment_account_holder">
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_city}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">State</label>
+                    <input class="form-control" id="state" placeholder="" type="text" 
+                    formControlName="payment_account_holder">
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_state}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Gender</label>
+                    <form class="form-control" id="radioFormGroup">
+                        <div class="col-md-3 form-check form-check-inline">
+                            <input type="radio" id="male" class="form-check-input" value="male" name="gender">
+                            <label for="male" class="form-check-label">Male</label><br>
+                        </div>
+                        <div class="col-md-3 form-check form-check-inline">
+                            <input type="radio" id="female" class="form-check-input" value="female" name="gender">
+                            <label for="female" class="form-check-label">Female</label><br>
+                        </div>
+                        <div class="col-md-3 form-check form-check-inline">
+                            <input type="radio" id="other" class="form-check-input" value="other" name="gender">
+                            <label for="other" class="form-check-label">Other</label>
+                        </div>
+                    </form>
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_radioFormGroup}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Vehicle</label>
+                    <form class="form-control" id="checkboxFormGroup">
+                        <div class="col-md-3 form-check-inline">
+                            <div class="form-check">
+                                <input type="checkbox" id="vehicle1" name="vehicle" value="bike" class="form-check-input">
+                                <label for="vehicle1" class="form-check-label"> Bike</label>
+                            </div> 
+                        </div>
+                        <div class="col-md-3 form-check-inline">
+                            <div class="form-check">
+                                <input type="checkbox" id="vehicle2" name="vehicle" value="car" class="form-check-input">
+                                <label for="vehicle2" class="form-check-label"> Car</label>
+                            </div>
+                        </div>
+                        <div class="col-md-3 form-check-inline">
+                            <div class="form-check">
+                                <input type="checkbox" id="vehicle3" name="vehicle" value="boat" class="form-check-input">
+                                <label for="vehicle3" class="form-check-label"> Boat</label><br>
+                            </div>
+                        </div>
+                    </form>
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_checkboxFormGroup}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12 form-group">
+                    <label class="col-form-label text-bold ml-0">Age</label>
+                    <div><input type="range" id="range" value="0" formControlName="payment_account_holder" 
+                    class="form-control-range range_width"><span id="range_span">50</span></div>
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_range}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="form-group col-md-12">
+                    <label class="col-form-label text-bold ml-0">Description</label>
+                    <textarea class="form-control" id="description" rows="3" 
+                    formControlName="payment_account_holder"></textarea>
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_description}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <button id="save" class="btn btn-primary float-right" style="width: 120px" type="submit" (click)="submit()"> Save </button>
+                    <output style="color: green; font: 1em sans-serif; font-weight: bold;">{{outputText}}</output>
+                    <input type="hidden" formControlName="experimenter" id="experimenter">
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,17 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,Pablo,TEXT,1598034859747,,1598034861608
+lastname,Autofill,Escobar,TEXT,1598034861623,,1598034861627
+address,Autofill,5860 North Bay Road,TEXT,1598034861634,,1598034861638
+country,Autofill,USA,SELECT,1598034861647,,1598034861654
+pin,Autofill,33140,TEXT,1598034861665,,1598034861668
+email,Autofill,escobar@netflix.com,TEXT,1598034861676,,1598034861680
+phone,Autofill,0112276899,TEXT,1598034861689,,1598034861692
+city,Autofill,Miami,TEXT,1598034861701,,1598034861704
+state,Autofill,Florida,TEXT,1598034861713,,1598034861717
+profession,Mouse Click,drug lord,SELECT,1598034863326,,1598034867360
+landmark,Keyboard +3-0,Laboratory,TEXT,1598034868361,,1598034873140
+gender,Mouse Click,male,RADIO,1598034875168,,1598034875794
+vehicle,Mouse Click,car,CHECKBOX,1598034877822,,1598034878368
+range,Mouse Click,40,RANGE,1598034880229,,1598034881891
+description,Keyboard +49-1,I like the Netflix TV series about Pablo Escobar,TEXTAREA,1598034882698,,1598034901313
+save,Mouse Click,,SUBMIT,1598034903791,,1598034903898

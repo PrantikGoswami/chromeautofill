@@ -1,0 +1,18 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,Nancy,TEXT,1597820847995,,1597820849889
+lastname,Autofill,Drew,TEXT,1597820849909,,1597820849913
+address,Autofill,"69, Seeawl Lane",TEXT,1597820849924,,1597820849927
+country,Autofill,USA,SELECT,1597820849941,,1597820849951
+pin,Autofill,07101,TEXT,1597820849961,,1597820849967
+email,Autofill,nancy.drew@sleuth.com,TEXT,1597820849978,,1597820849985
+phone,Autofill,128665980,TEXT,1597820849992,,1597820849996
+city,Autofill,River Heights,TEXT,1597820850013,,1597820850017
+profession,Mouse Click,detective,SELECT,1597820852082,,1597820863635
+landmark,Mouse Click,Police Station,TEXT,1597820864950,,1597820867335
+state,Mouse Click,,TEXT,1597820870191,,1597820872467
+state,Mouse Click,Florida,TEXT,1597820870191,,1597820874039
+gender,Autofill,female,RADIO,1597820876506,,1597820878098
+vehicle,Mouse Click,boat,CHECKBOX,1597820883080,,1597820888436
+range,Mouse Click,25,RANGE,1597820888442,,1597820892191
+description,Keyboard +10-0,Nancy Drew,TEXTAREA,1597820893455,,1597820902226
+save,Mouse Click,,SUBMIT,1597820903468,,1597820903698

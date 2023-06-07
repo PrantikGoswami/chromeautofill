@@ -1,0 +1,9 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+email eskobar at netflix.com,True,eskobar@netflix.com,TEXT,1597397055721,1597397061999,1597397062009
+email eskobar hit netflix.com,True,eskobar hit netflix.com,TEXT,1597397064222,1597397071156,1597397071165
+gender male,True,male,RADIO,1597397073598,1597397076213,1597397076221
+description details for Pablo,True,details for Pablo,TEXTAREA,1597397077155,1597397081491,1597397081498
+email eskobar at netflix.com,True,eskobar@netflix.com,TEXT,1597397083300,1597397089588,1597397089596
+email,Keyboard +3-1,escobar@netflix.com,TEXT,1597397092983,,1597397104065
+zoom,False,,,1597397105580,1597397107545,
+save,True,,,1597397108553,1597397110437,1597397110444

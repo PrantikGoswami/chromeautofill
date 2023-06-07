@@ -1,0 +1,13 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+pin,Keyboard +2-3,RG12 9FG,TEXT,1597412898466,,1597412902613
+firstname,Autofill,Harry,TEXT,1597412902624,,1597412902625
+lastname,Autofill,Potter,TEXT,1597412902636,,1597412902638
+address,Autofill,"4, Privet Drive",TEXT,1597412902648,,1597412902652
+country,Autofill,United Kingdom,SELECT,1597412902660,,1597412902664
+email,Autofill,harry.potter@hogwarts.com,TEXT,1597412902675,,1597412902679
+city,Autofill,Surrey,TEXT,1597412902692,,1597412902693
+pin,Keyboard +2-3,RG12 9FG,TEXT,1597412898466,,1597412905739
+pin,Autofill,RG12 9FG,TEXT,1597412902620,,1597412905743
+pin,Autofill,RG12 9FG,TEXT,1597412902704,,1597412905750
+landmark,Keyboard +4-4,School,TEXT,1597412905757,,1597412915475
+gender,Mouse Click,male,RADIO,1597412915484,,1597412919074

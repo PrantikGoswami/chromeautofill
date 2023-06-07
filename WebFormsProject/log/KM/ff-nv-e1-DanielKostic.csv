@@ -1,0 +1,16 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+email,Keyboard +10-0,sherlock@gov.uk,TEXT,1597223810455,,1597223818649
+firstname,Autofill,Sherlock,TEXT,1597223818655,,1597223818656
+lastname,Autofill,Holmes,TEXT,1597223818663,,1597223818665
+address,Autofill,"221B, Baker Street",TEXT,1597223818672,,1597223818674
+country,Autofill,United Kingdom,SELECT,1597223818678,,1597223818680
+pin,Autofill,NW1 6XE,TEXT,1597223818689,,1597223818690
+phone,Autofill,01747503639,TEXT,1597223818697,,1597223818704
+city,Autofill,London,TEXT,1597223818712,,1597223818713
+email,Keyboard +10-0,sherlock@gov.uk,TEXT,1597223810455,,1597223821351
+email,Autofill,sherlock@gov.uk,TEXT,1597223818653,,1597223821353
+email,Autofill,sherlock@gov.uk,TEXT,1597223818720,,1597223821357
+range,Autofill,35,RANGE,1597223821365,,1597223830222
+phone,Keyboard -1,1747503639,TEXT,1597223818697,,1597223836327
+phone,Keyboard -2,1747503639,TEXT,1597223818710,,1597223836332
+phone,Keyboard -3,1747503639,TEXT,1597223833151,,1597223836339

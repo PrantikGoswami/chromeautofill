@@ -1,0 +1,7 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+email Sherlock actress goc.uk,True,Sherlock actress goc.uk,TEXT,1597758517435,1597758523980,1597758523989
+golf automatic,False,,,1597758526296,1597758529138,
+email Sherlock at gov.uk,True,sherlock@gov.uk,TEXT,1597758529863,1597758533987,1597758533996
+phone 17 for 750 3639,True,1747503639,TEXT,1597758536050,1597758543634,1597758543640
+age 35,True,35,RANGE,1597758544872,1597758550353,1597758550367
+save,True,,,1597758551902,1597758553836,1597758553844

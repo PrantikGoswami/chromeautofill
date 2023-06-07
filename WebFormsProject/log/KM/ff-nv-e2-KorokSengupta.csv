@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender,Mouse Click,male,RADIO,1598034460097,,1598034461019
+vehicle,Mouse Click,boat,CHECKBOX,1598034465357,,1598034465972
+description,Keyboard +88-6,This is a short description about John watson the writer friend of Sherlock Holems,TEXTAREA,1598034467311,,1598034499388
+save,Mouse Click,,SUBMIT,1598034500178,,1598034500247

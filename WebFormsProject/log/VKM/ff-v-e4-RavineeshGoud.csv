@@ -1,0 +1,7 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+email Escobar edrich Netflix netflix.com,True,Escobar edrich Netflix netflix.com,TEXT,1597758682434,1597758688132,1597758688149
+at,False,,,1597758690102,1597758693190,
+email Escobar at netflix.com,True,escobar@netflix.com,TEXT,1597758694522,1597758698789,1597758698797
+gender male,True,male,RADIO,1597758700601,1597758703024,1597758703032
+description test,True,test,TEXTAREA,1597758704176,1597758706609,1597758706620
+save,True,,,1597758707837,1597758710322,1597758710329

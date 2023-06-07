@@ -1,0 +1,6 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender male,True,male,RADIO,1597841032074,1597841035700,1597841035708
+B&Q boat,False,,,1597841037036,1597841039893,
+vehicle boat,True,boat,CHECKBOX,1597841041912,1597841044664,1597841044672
+description any kind of a description,True,any kind of a description,TEXTAREA,1597841046874,1597841051170,1597841051177
+save,True,,,1597841051893,1597841053622,1597841053629

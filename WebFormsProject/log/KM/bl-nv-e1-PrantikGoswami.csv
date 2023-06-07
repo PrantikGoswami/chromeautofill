@@ -1,0 +1,17 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,Sherlock,TEXT,1598034681408,,1598034682201
+lastname,Autofill,Holmes,TEXT,1598034682224,,1598034682229
+address,Autofill,"221B, Baker Street",TEXT,1598034682242,,1598034682249
+country,Autofill,United Kingdom,SELECT,1598034682261,,1598034682274
+pin,Autofill,NW1 6XE,TEXT,1598034682286,,1598034682291
+email,Autofill,sherlock@gov.uk,TEXT,1598034682304,,1598034682310
+phone,Autofill,01747503639,TEXT,1598034682321,,1598034682327
+city,Autofill,London,TEXT,1598034682340,,1598034682347
+profession,Mouse Click,detective,SELECT,1598034684428,,1598034687945
+landmark,Mouse Click,Hospital,TEXT,1598034688568,,1598034691939
+state,Keyboard +3-0,England,TEXT,1598034693928,,1598034698444
+gender,Mouse Click,male,RADIO,1598034699913,,1598034700513
+vehicle,Mouse Click,car,CHECKBOX,1598034703097,,1598034703489
+range,Mouse Click,35,RANGE,1598034706127,,1598034709117
+description,Keyboard +91-1,Sherlock Holmes is the famous detective character and I like the TV series about Sherlock.,TEXTAREA,1598034709843,,1598034744592
+save,Mouse Click,,SUBMIT,1598034746809,,1598034746923

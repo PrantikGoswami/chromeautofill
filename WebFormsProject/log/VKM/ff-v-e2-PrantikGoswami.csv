@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender male,True,male,RADIO,1598025555942,1598025558571,1598025558578
+vehicle boat,True,boat,CHECKBOX,1598025560911,1598025563447,1598025563458
+description this is the description about John Watson,True,this is the description about John Watson,TEXTAREA,1598025564979,1598025569519,1598025569530
+save,True,,,1598025570664,1598025572409,1598025572418

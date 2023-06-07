@@ -1,0 +1,19 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Keyboard +3-0,Sherlock,TEXT,1597225533619,,1597225536276
+lastname,Autofill,Holmes,TEXT,1597225536284,,1597225536285
+address,Autofill,"221B, Baker Street",TEXT,1597225536290,,1597225536292
+country,Autofill,United Kingdom,SELECT,1597225536300,,1597225536308
+pin,Autofill,NW1 6XE,TEXT,1597225536315,,1597225536318
+email,Autofill,sherlock@gov.uk,TEXT,1597225536325,,1597225536327
+phone,Autofill,01747503639,TEXT,1597225536337,,1597225536339
+city,Autofill,London,TEXT,1597225536351,,1597225536353
+firstname,Keyboard +3-0,Sherlock,TEXT,1597225533619,,1597225538955
+firstname,Autofill,Sherlock,TEXT,1597225536282,,1597225538959
+firstname,Autofill,Sherlock,TEXT,1597225536361,,1597225538967
+state,Keyboard +8-0,england,TEXT,1597225538976,,1597225544076
+gender,Mouse Click,male,RADIO,1597225544082,,1597225549572
+vehicle,Mouse Click,car,CHECKBOX,1597225549578,,1597225551547
+range,Autofill,35,RANGE,1597225551552,,1597225555411
+profession,Autofill,detective,SELECT,1597225555417,,1597225558947
+description,Keyboard +14-0,no description,TEXTAREA,1597225558954,,1597225564119
+landmark,Keyboard +3-0,Hospital,TEXT,1597225564127,,1597225569230

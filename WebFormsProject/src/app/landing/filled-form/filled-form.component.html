@@ -1,0 +1,343 @@
+<h3>{{pageTitle}}</h3>
+<form [formGroup]="filledFormGroup" (ngSubmit)="onSubmit()" class="main-modal-content" *ngIf="filledFormGroup">
+    <div class="row justify-content-center">
+        <div class="col-5">
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">First Name</label>
+                    <input class="form-control" id="firstname" placeholder="" type="text" 
+                    formControlName="firstname">
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_firstname}}</div>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Last Name</label>
+                    <input class="form-control" id="lastname" placeholder="" type="text" formControlName="lastname">
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_lastname}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Address</label>
+                    <input class="form-control" id="address" placeholder="" type="text" formControlName="address">
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_address}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Country</label>
+                    <select class="form-control custom-select" id="country" placeholder="" formControlName="country">
+                        <option value="">-- Please select --</option>
+                        <option value="India">India</option>
+                        <option value="Germany">Germany</option>
+                        <option value="United Kingdom">United Kingdom</option>
+                        <option value="USA">United States of America</option>
+                    </select>
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_country}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Postal code</label>
+                    <input class="form-control" id="pin" placeholder="" type="text" formControlName="pin">
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_pin}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Email</label>
+                    <input class="form-control" id="email" placeholder="" type="text" formControlName="email">
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_email}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Profession</label>
+                    <select class="form-control custom-select" id="profession" placeholder="" formControlName="profession">
+                        <option value="">-- Please select --</option>
+                        <option value="student">Student</option>
+                        <option value="professor">Professor</option>
+                        <option value="examiner">Examiner</option>
+                        <option value="researcher">Researcher</option>
+                        <option value="tutor">Tutor</option>
+                        <option value="drug lord">Drug Lord</option>
+                        <option value="detective">Detective</option>
+                        <option value="writer">Writer</option>
+                        <option value="CEO">CEO</option>
+                        <option value="journalist">Journalist</option>
+                        <option value="boxer">Boxer</option>
+                        <option value="doctor">Doctor</option>
+                    </select>
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_profession}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Landmark</label>
+                    <input list="names" class="form-control" id="landmark" type="text" formControlName="landmark">
+                        <datalist id="names">
+                            <option value="school">
+                            <option value="university">
+                            <option value="hospital">
+                        </datalist>
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_landmark}}</div>
+                    </div>
+                </div>
+            </div>
+            
+                
+            
+            <!--<div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">type A</label>
+                    <select class="form-control custom-select" (change)="onSelect($event.target.value)" formControlName="payment_type">
+                    <option value="null">--Please select--</option>
+                    <option *ngFor="let paymentType of paymentTypes" ngValue= {{paymentType.name}}>{{paymentType.name}}</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Type B</label>
+                    <select class="form-control custom-select">
+                        <option value="">-- Please select --</option>
+                        <optgroup>
+                            <option value="1" selected="selected">Val 1</option>
+                            <option value="2">Val 2</option>
+                            <option value="3">Val 3</option>
+                        </optgroup>
+                    </select>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Type C</label>
+                    <div class="row mt-sm-1">
+                        <div class="col-2">
+                            <p>Option 1</p>
+                        </div>
+                        <div class="col-1 text-center">
+                            <label class="switch-check">
+                                <input id="cb" [(checked)]="b_credit_as" type="checkbox" (change)="onSelect($event.target.checked)" formControlName="sepa_agree">
+                                <span class="slider-check round"></span>
+                            </label>
+                        </div>
+                        <div class="col-2">
+                            <p>Option 2</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Type E</label><br/>
+                    <textarea rows="2" cols="50">
+                        I am writing multiline text here. Some more text. Text. Text. Text. Text.
+                    </textarea>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Type F</label>
+                    <form oninput="result.value=parseInt(x.value)+parseInt(y.value)">
+                        0<input type="range" id="x" value="75">100
+                        +<input type="number" id="y" value="72">
+                        =<output name="result" for="x y"></output>
+                      </form>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Type G</label>
+                     //<input list="names"></input>
+                        <datalist id="names">
+                            <option value="Tom">
+                            <option value="Sam">
+                            <option value="Jack">
+                            <option value="Annie">
+                            <option value="Rich">
+                        </datalist>
+                    
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Type H</label><br>
+                    <input class="radio" placeholder="" name="Type_H" type="radio" value="OP1">Option 1<br>
+                    <input class="radio" placeholder="" name="Type_H" type="radio" value="OP2">Option 2<br>
+                </div>
+            </div> -->
+            
+        </div>
+        <div class="col-5">
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Mobile Number</label>
+                    <input class="form-control" id="phone" autocomplete="off" placeholder="" type="text" formControlName="mobile">
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_phone}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">City</label>
+                    <input class="form-control" id="city" placeholder="" type="text" formControlName="city">
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_city}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">State</label>
+                    <input class="form-control" id="state" placeholder="" type="text" formControlName="state"
+                    >
+                    <!--[ngClass]="{'is-invalid':isInvalid}">-->
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_state}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Gender</label>
+                    <form formGroupName="radioFormGroup" class="form-control" id="radioFormGroup">
+                        <div class="col-md-3 form-check form-check-inline">
+                            <input type="radio" id="male" class="form-check-input" value="male" name="gender" formControlName="gender">
+                            <label for="male" class="form-check-label">Male</label><br>
+                        </div>
+                        <div class="col-md-3 form-check form-check-inline">
+                            <input type="radio" id="female" class="form-check-input" value="female" name="gender" formControlName="gender">
+                            <label for="female" class="form-check-label">Female</label><br>
+                        </div>
+                        <div class="col-md-3 form-check form-check-inline">
+                            <input type="radio" id="other" class="form-check-input" value="other" name="gender" formControlName="gender">
+                            <label for="other" class="form-check-label">Other</label>
+                        </div>
+                    </form>
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_radioFormGroup}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12">
+                    <label class="col-form-label text-bold ml-0">Vehicle</label>
+                    <form formGroupName="checkboxFormGroup" class="form-control" id="checkboxFormGroup">
+                        <div class="col-md-3 form-check-inline">
+                            <div class="form-check">
+                                <input type="checkbox" id="vehicle1" name="vehicle" value="bike" class="form-check-input" formControlName="bike">
+                                <label for="vehicle1" class="form-check-label"> Bike</label>
+                            </div> 
+                        </div>
+                        <div class="col-md-3 form-check-inline">
+                            <div class="form-check">
+                                <input type="checkbox" id="vehicle2" name="vehicle" value="car" class="form-check-input" formControlName="car">
+                                <label for="vehicle2" class="form-check-label"> Car</label>
+                            </div>
+                        </div>
+                        <div class="col-md-3 form-check-inline">
+                            <div class="form-check">
+                                <input type="checkbox" id="vehicle3" name="vehicle" value="boat" class="form-check-input" formControlName="boat">
+                                <label for="vehicle3" class="form-check-label"> Boat</label><br>
+                            </div>
+                        </div>
+                    </form>
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_checkboxFormGroup}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="col-md-12 form-group">
+                    <label class="col-form-label text-bold ml-0">Age</label>
+                    <div><input type="range" id="range" value="0" formControlName="range" 
+                    class="form-control-range range_width"><span id="range_span">50</span></div>
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_range}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row form-group">
+                <div class="form-group col-md-12">
+                    <label class="col-form-label text-bold ml-0">Description</label>
+                    <textarea class="form-control" id="description" rows="3" formControlName="description"></textarea>
+                    <div class="invalid-feedback">
+                        <div>Invalid Value</div>
+                    </div>
+                    <div class="correct_val">
+                        <div>{{corr_description}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <button id="save" class="btn btn-primary float-right" style="width: 120px" type="submit" (click)="submit()"> Save </button>
+                    <output style="color: green; font: 1em sans-serif; font-weight: bold;">{{outputText}}</output>
+                    <input type="hidden" formControlName="experimenter" id="experimenter">
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+

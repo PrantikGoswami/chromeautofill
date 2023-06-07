@@ -1,0 +1,6 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+Eamon Escobar at netflix.com,False,,,1597740694263,1597740699966,
+email Escobar at netflix.com,True,escobar@netflix.com,TEXT,1597740702104,1597740707355,1597740707363
+gender male,True,male,RADIO,1597740708875,1597740711746,1597740711755
+description test,True,test,TEXTAREA,1597740712771,1597740716432,1597740716438
+save,True,,,1597740717152,1597740719590,1597740719597

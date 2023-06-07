@@ -1,0 +1,18 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,John,TEXT,1597921243145,,1597921246045
+lastname,Autofill,Watson,TEXT,1597921246129,,1597921246165
+address,Autofill,"221B, Baker Street",TEXT,1597921246200,,1597921246218
+country,Autofill,United Kingdom,SELECT,1597921246260,,1597921246291
+pin,Autofill,NW1 6XE,TEXT,1597921246340,,1597921246354
+email,Autofill,johnw@beingdoctor.com,TEXT,1597921246393,,1597921246422
+phone,Autofill,+12634888,TEXT,1597921246487,,1597921246507
+city,Autofill,London,TEXT,1597921246591,,1597921246609
+profession,Mouse Click,doctor,SELECT,1597921248275,,1597921254774
+landmark,Mouse Click,Library,TEXT,1597921254785,,1597921257923
+gender,Mouse Click,male,RADIO,1597921257942,,1597921259570
+state,Mouse Click,,TEXT,1597921259586,,1597921260497
+state,Keyboard +2-0,England,TEXT,1597921259586,,1597921266762
+vehicle,Mouse Click,car,CHECKBOX,1597921267430,,1597921269071
+range,Mouse Click,36,RANGE,1597921270614,,1597921273079
+description,Keyboard +3-0,ffd,TEXTAREA,1597921273088,,1597921275779
+save,Mouse Click,,SUBMIT,1597921276523,,1597921276608

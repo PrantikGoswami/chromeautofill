@@ -1,0 +1,19 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Keyboard +6-0,Bruce,TEXT,1597219410914,,1597219413892
+lastname,Autofill,Wayne,TEXT,1597219413896,,1597219413899
+address,Autofill,1007 Mountain Drive,TEXT,1597219413903,,1597219413905
+country,Autofill,USA,SELECT,1597219413911,,1597219413920
+pin,Autofill,07001,TEXT,1597219413930,,1597219413933
+email,Autofill,batbruce@rich.com,TEXT,1597219413939,,1597219413941
+phone,Autofill,12233447890,TEXT,1597219413949,,1597219413952
+city,Autofill,Gotham,TEXT,1597219413963,,1597219413965
+state,Autofill,New York,TEXT,1597219413973,,1597219413975
+firstname,Keyboard +6-0,Bruce,TEXT,1597219410914,,1597219415004
+firstname,Autofill,Bruce,TEXT,1597219413895,,1597219415008
+firstname,Autofill,Bruce,TEXT,1597219413982,,1597219415013
+profession,Autofill,CEO,SELECT,1597219417131,,1597219419067
+landmark,Autofill,Hospital,TEXT,1597219420067,,1597219422435
+gender,Mouse Click,male,RADIO,1597219425667,,1597219426242
+vehicle,Mouse Click,bike,CHECKBOX,1597219427803,,1597219428419
+range,Autofill,38,RANGE,1597219429946,,1597219432138
+description,Keyboard +25-0,Bruce wayne description,TEXTAREA,1597219433091,,1597219440395

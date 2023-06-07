@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+email,Keyboard +3-16,sherlock@gov.uk,TEXT,1597820555601,,1597820561653
+phone,Keyboard +0-1,1747503639,TEXT,1597820561696,,1597820575971
+range,Mouse Click,35,RANGE,1597820581054,,1597820587870
+save,Mouse Click,,SUBMIT,1597820588858,,1597820588954

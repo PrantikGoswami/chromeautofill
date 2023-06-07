@@ -1,0 +1,7 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+last name Drew,True,Drew,TEXT,1597922799695,1597922803522,1597922803530
+profession detective,True,detective,SELECT,1597922804397,1597922807346,1597922807360
+Viking bike,False,,,1597922809090,1597922813477,
+vehicle but,True,but,FORM,1597922814348,1597922816924,
+vehicle boat,True,boat,CHECKBOX,1597922818252,1597922821732,1597922821742
+save,True,,,1597922822772,1597922824755,1597922824770

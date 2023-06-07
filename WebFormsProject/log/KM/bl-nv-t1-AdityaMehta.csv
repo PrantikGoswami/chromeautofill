@@ -1,0 +1,22 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,Harry,TEXT,1597133303245,,1597133304604
+lastname,Autofill,Potter,TEXT,1597133304614,,1597133304618
+address,Autofill,"4, Privet Drive",TEXT,1597133304627,,1597133304632
+country,Autofill,United Kingdom,SELECT,1597133304643,,1597133304657
+pin,Autofill,RG12 9FG,TEXT,1597133304672,,1597133304676
+email,Autofill,harry.potter@hogwarts.com,TEXT,1597133304687,,1597133304692
+city,Autofill,Surrey,TEXT,1597133304707,,1597133304711
+firstname,Autofill,Harry,TEXT,1597133303245,,1597133306781
+firstname,Autofill,Harry,TEXT,1597133304611,,1597133306786
+firstname,Autofill,Harry,TEXT,1597133304721,,1597133306791
+profession,Autofill,student,SELECT,1597133306807,,1597133309238
+landmark,Autofill,School,TEXT,1597133309246,,1597133312405
+phone,Keyboard +2-0,5213961394,TEXT,1597133312415,,1597133316341
+state,Autofill,,TEXT,1597133316348,,1597133318504
+state,Keyboard +10-0,Watford,TEXT,1597133316348,,1597133324413
+state,Keyboard +11-0,Watford,TEXT,1597133318509,,1597133324418
+state,Keyboard +12-0,Watford,TEXT,1597133319165,,1597133324422
+gender,Mouse Click,male,RADIO,1597133324432,,1597133326998
+vehicle,Mouse Click,bike,CHECKBOX,1597133327799,,1597133329175
+range,Autofill,20,RANGE,1597133329180,,1597133334071
+description,Keyboard +38-4,Filling form for Harry details.,TEXTAREA,1597133334079,,1597133350401

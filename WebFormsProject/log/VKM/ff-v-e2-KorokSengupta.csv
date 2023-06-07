@@ -1,0 +1,6 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender male,True,male,RADIO,1597089852092,1597089855390,1597089855400
+Regal boat,False,,,1597089856209,1597089859408,1597089859417
+vehicle boat,True,boat,CHECKBOX,1597089861724,1597089865639,1597089865650
+description this is a short description about Dr Watson,True,this is a short description about Dr Watson,TEXTAREA,1597089870523,1597089878603,1597089878617
+save,True,,,1597089879351,1597089882928,1597089882948

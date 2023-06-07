@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+email,Keyboard +3-0,escobar@netflix.com,TEXT,1598035340024,,1598035361400
+gender,Mouse Click,male,RADIO,1598035366396,,1598035367150
+description,Keyboard +83-6,This is a short description about Pablo Escobar who was the famous drug lord.,TEXTAREA,1598035368919,,1598035402411
+save,Mouse Click,,SUBMIT,1598035403558,,1598035403649

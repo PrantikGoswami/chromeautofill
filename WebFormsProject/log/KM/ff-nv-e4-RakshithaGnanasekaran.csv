@@ -1,0 +1,15 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender,Mouse Click,male,RADIO,1597225256792,,1597225258544
+email,Keyboard +3-0,escobar@netflix.com,TEXT,1597225258549,,1597225262482
+firstname,Autofill,Pablo,TEXT,1597225262486,,1597225262487
+lastname,Autofill,Escobar,TEXT,1597225262493,,1597225262494
+address,Autofill,5860 North Bay Road,TEXT,1597225262501,,1597225262503
+country,Autofill,USA,SELECT,1597225262509,,1597225262511
+pin,Autofill,33140,TEXT,1597225262515,,1597225262516
+phone,Autofill,0112276899,TEXT,1597225262523,,1597225262525
+city,Autofill,Miami,TEXT,1597225262531,,1597225262534
+state,Autofill,Florida,TEXT,1597225262546,,1597225262547
+email,Keyboard +3-0,escobar@netflix.com,TEXT,1597225258549,,1597225264387
+email,Autofill,escobar@netflix.com,TEXT,1597225262485,,1597225264391
+email,Autofill,escobar@netflix.com,TEXT,1597225262558,,1597225264393
+description,Keyboard +17-2,no description,TEXTAREA,1597225264400,,1597225276794

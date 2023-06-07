@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+email,Keyboard +3-0,escobar@netflix.com,TEXT,1597835243093,,1597835246960
+gender,Mouse Click,male,RADIO,1597835249700,,1597835252012
+description,Keyboard +15-6,Hello,TEXTAREA,1597835252020,,1597835269601
+save,Mouse Click,,SUBMIT,1597835269612,,1597835269672

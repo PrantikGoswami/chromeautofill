@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender,Mouse Click,male,RADIO,1597909988913,,1597909989926
+vehicle,Mouse Click,boat,CHECKBOX,1597909991953,,1597909992467
+description,Keyboard +3-0,sth,TEXTAREA,1597909993537,,1597909995690
+save,Mouse Click,,SUBMIT,1597909996424,,1597909996489

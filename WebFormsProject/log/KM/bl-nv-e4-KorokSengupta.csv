@@ -1,0 +1,17 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,Pablo,TEXT,1598034216628,,1598034218488
+lastname,Autofill,Escobar,TEXT,1598034218494,,1598034218496
+address,Autofill,5860 North Bay Road,TEXT,1598034218505,,1598034218508
+country,Autofill,USA,SELECT,1598034218518,,1598034218524
+pin,Autofill,33140,TEXT,1598034218531,,1598034218534
+email,Autofill,escobar@netflix.com,TEXT,1598034218544,,1598034218547
+phone,Autofill,0112276899,TEXT,1598034218556,,1598034218560
+city,Autofill,Miami,TEXT,1598034218569,,1598034218573
+state,Autofill,Florida,TEXT,1598034218581,,1598034218583
+profession,Mouse Click,drug lord,SELECT,1598034220181,,1598034224828
+landmark,Keyboard +2-0,Laboratory,TEXT,1598034224856,,1598034228855
+gender,Mouse Click,male,RADIO,1598034230551,,1598034231754
+vehicle,Mouse Click,car,CHECKBOX,1598034233335,,1598034234120
+range,Mouse Click,40,RANGE,1598034235844,,1598034244560
+description,Keyboard +92-7,Pablo Escobar is the famous druglord and he has a series in Netflix dedicated to him.,TEXTAREA,1598034245106,,1598034282982
+save,Mouse Click,,SUBMIT,1598034283962,,1598034284049

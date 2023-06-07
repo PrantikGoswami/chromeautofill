@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+email,Keyboard +4-0,escobar@netflix.com,TEXT,1598034524780,,1598034529631
+gender,Mouse Click,male,RADIO,1598034534115,,1598034535055
+description,Keyboard +76-1,This is a short description about the famous maxican drunlord Pablo Escobar,TEXTAREA,1598034536547,,1598034564180
+save,Mouse Click,,SUBMIT,1598034565265,,1598034565365

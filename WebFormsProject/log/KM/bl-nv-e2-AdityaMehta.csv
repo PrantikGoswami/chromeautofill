@@ -1,0 +1,22 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,John,TEXT,1597133461015,,1597133464149
+lastname,Autofill,Watson,TEXT,1597133464158,,1597133464161
+address,Autofill,"221B, Baker Street",TEXT,1597133464173,,1597133464176
+country,Autofill,United Kingdom,SELECT,1597133464187,,1597133464201
+pin,Autofill,NW1 6XE,TEXT,1597133464212,,1597133464215
+email,Autofill,johnw@beingdoctor.com,TEXT,1597133464224,,1597133464228
+phone,Autofill,+12634888,TEXT,1597133464241,,1597133464246
+city,Autofill,London,TEXT,1597133464258,,1597133464263
+firstname,Autofill,John,TEXT,1597133461015,,1597133466070
+firstname,Autofill,John,TEXT,1597133464155,,1597133466074
+firstname,Autofill,John,TEXT,1597133464275,,1597133466078
+profession,Autofill,doctor,SELECT,1597133466085,,1597133468696
+landmark,Autofill,Library,TEXT,1597133468706,,1597133472223
+phone,Autofill,+12634888,TEXT,1597133464241,,1597133473959
+phone,Autofill,+12634888,TEXT,1597133464255,,1597133473966
+phone,Autofill,+12634888,TEXT,1597133472236,,1597133473971
+state,Keyboard +8-0,England,TEXT,1597133477369,,1597133481896
+gender,Mouse Click,male,RADIO,1597133481910,,1597133485038
+vehicle,Mouse Click,car,CHECKBOX,1597133486735,,1597133488822
+range,Autofill,36,RANGE,1597133488830,,1597133491839
+description,Keyboard +61-3,"John from UK, England is filling up the form here.",TEXTAREA,1597133491845,,1597133509952

@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+profession,Mouse Click,detective,SELECT,1597826522087,,1597826527127
+lastname,Keyboard +1-0,Drew,TEXT,1597826527135,,1597826532393
+vehicle,Mouse Click,boat,CHECKBOX,1597826535791,,1597826537820
+save,Mouse Click,,SUBMIT,1597826537830,,1597826541082

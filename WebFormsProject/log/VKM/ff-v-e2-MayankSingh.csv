@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender male,True,male,RADIO,1597750190532,1597750195014,1597750195028
+vehicle boat,True,boat,CHECKBOX,1597750196157,1597750199034,1597750199041
+description my name is Tom,True,my name is Tom,TEXTAREA,1597750199982,1597750204303,1597750204308
+save,True,,,1597750205429,1597750207246,1597750207256

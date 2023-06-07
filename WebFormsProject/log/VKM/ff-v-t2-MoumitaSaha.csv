@@ -1,0 +1,9 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+last name Drew,True,Drew,TEXT,1597740501706,1597740505697,1597740505703
+profession detective,True,detective,SELECT,1597740507412,1597740511464,1597740511472
+play Go,False,,,1597740514798,1597740517258,
+vehicle,True,,,1597740519598,1597740521751,
+Vehicle moat,True,moat,FORM,1597740522814,1597740524296,
+viagogo,False,,,1597740525218,1597740527147,
+vehicle boat,True,boat,CHECKBOX,1597740528572,1597740533705,1597740533712
+save,True,,,1597740534872,1597740536995,1597740537002

@@ -1,0 +1,31 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,Harry,TEXT,1597413279687,,1597413280994
+lastname,Autofill,Potter,TEXT,1597413281017,,1597413281021
+address,Autofill,"4, Privet Drive",TEXT,1597413281031,,1597413281037
+country,Autofill,United Kingdom,SELECT,1597413281054,,1597413281063
+pin,Autofill,RG12 9FG,TEXT,1597413281078,,1597413281084
+email,Autofill,harry.potter@hogwarts.com,TEXT,1597413281094,,1597413281100
+city,Autofill,Surrey,TEXT,1597413281117,,1597413281120
+firstname,Keyboard +1-0,Harry,TEXT,1597413279687,,1597413282527
+firstname,Keyboard +2-0,Harry,TEXT,1597413281011,,1597413282531
+firstname,Keyboard +3-0,Harry,TEXT,1597413281133,,1597413282540
+lastname,Keyboard +1-0,Potter,TEXT,1597413281017,,1597413283111
+lastname,Keyboard +2-0,Potter,TEXT,1597413281027,,1597413283117
+lastname,Keyboard +3-0,Potter,TEXT,1597413282552,,1597413283122
+address,Keyboard +1-0,"4, Privet Drive",TEXT,1597413281031,,1597413283343
+address,Keyboard +2-0,"4, Privet Drive",TEXT,1597413281049,,1597413283351
+address,Keyboard +3-0,"4, Privet Drive",TEXT,1597413283133,,1597413283356
+country,Autofill,United Kingdom,SELECT,1597413281054,,1597413284494
+country,Autofill,United Kingdom,SELECT,1597413281073,,1597413284505
+country,Autofill,United Kingdom,SELECT,1597413283366,,1597413284511
+profession,Keyboard +1-0,student,SELECT,1597413284524,,1597413287502
+landmark,Keyboard +3-0,School,TEXT,1597413287511,,1597413290351
+phone,Keyboard +3-0,5213961394,TEXT,1597413290360,,1597413295221
+city,Keyboard +1-0,Surrey,TEXT,1597413281117,,1597413296287
+city,Keyboard +2-0,Surrey,TEXT,1597413281127,,1597413296291
+city,Keyboard +3-0,Surrey,TEXT,1597413295235,,1597413296294
+state,Keyboard +3-0,Watford,TEXT,1597413296302,,1597413299571
+gender,Mouse Click,male,RADIO,1597413299582,,1597413302910
+vehicle,Mouse Click,bike,CHECKBOX,1597413304054,,1597413305983
+range,Autofill,20,RANGE,1597413306897,,1597413308671
+description,Keyboard +5-0,Test,TEXTAREA,1597413308678,,1597413314254

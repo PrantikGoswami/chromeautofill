@@ -1,0 +1,17 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+firstname,Autofill,John,TEXT,1598034108773,,1598034111127
+lastname,Autofill,Watson,TEXT,1598034111153,,1598034111158
+address,Autofill,"221B, Baker Street",TEXT,1598034111170,,1598034111174
+country,Autofill,United Kingdom,SELECT,1598034111183,,1598034111192
+pin,Autofill,NW1 6XE,TEXT,1598034111206,,1598034111211
+email,Autofill,johnw@beingdoctor.com,TEXT,1598034111222,,1598034111226
+phone,Autofill,12634888,TEXT,1598034111241,,1598034111247
+city,Autofill,London,TEXT,1598034111256,,1598034111260
+profession,Mouse Click,doctor,SELECT,1598034113547,,1598034119435
+landmark,Mouse Click,Library,TEXT,1598034119443,,1598034124031
+state,Keyboard +7-0,England,TEXT,1598034125989,,1598034130830
+gender,Mouse Click,male,RADIO,1598034133413,,1598034134197
+vehicle,Mouse Click,car,CHECKBOX,1598034135404,,1598034135729
+range,Mouse Click,36,RANGE,1598034137275,,1598034139121
+description,Keyboard +83-0,This is a short description about John Watson who is the friend of Sherlock Holems.,TEXTAREA,1598034140136,,1598034169249
+save,Mouse Click,,SUBMIT,1598034169265,,1598034169329

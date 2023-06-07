@@ -1,0 +1,13 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender,Mouse Click,male,RADIO,1597225102865,,1597225104141
+pin,Keyboard +2-0,RG12 9FG,TEXT,1597225104223,,1597225108926
+firstname,Autofill,Harry,TEXT,1597225108991,,1597225108999
+lastname,Autofill,Potter,TEXT,1597225109051,,1597225109058
+address,Autofill,"4, Privet Drive",TEXT,1597225109123,,1597225109132
+country,Autofill,United Kingdom,SELECT,1597225109193,,1597225109208
+email,Autofill,harry.potter@hogwarts.com,TEXT,1597225109271,,1597225109281
+city,Autofill,Surrey,TEXT,1597225109362,,1597225109375
+pin,Keyboard +2-0,RG12 9FG,TEXT,1597225104223,,1597225115700
+pin,Autofill,RG12 9FG,TEXT,1597225108971,,1597225115748
+pin,Autofill,RG12 9FG,TEXT,1597225109423,,1597225115775
+landmark,Keyboard +2-0,School,TEXT,1597225115841,,1597225122657

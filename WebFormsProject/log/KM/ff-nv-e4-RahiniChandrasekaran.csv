@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender,Mouse Click,male,RADIO,1597754011863,,1597754013009
+email,Keyboard +2-0,escobar@netflix.com,TEXT,1597754013020,,1597754014995
+description,Keyboard +50-3,this is a short description about Pablo Escobar,TEXTAREA,1597754016004,,1597754031139
+save,Mouse Click,,SUBMIT,1597754031145,,1597754031223

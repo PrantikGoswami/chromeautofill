@@ -1,0 +1,7 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+pin,True,,,1597758432943,1597758436095,
+Postal code RG12 9FG,True,RG12 9FG,TEXT,1597758436895,1597758439901,1597758439908
+landmark School,True,School,TEXT,1597758441542,1597758444008,1597758444016
+gender Mary,True,Mary,FORM,1597758444733,1597758447219,
+gender male,True,male,RADIO,1597758448352,1597758450701,1597758450711
+save,True,,,1597758451744,1597758453371,1597758453378

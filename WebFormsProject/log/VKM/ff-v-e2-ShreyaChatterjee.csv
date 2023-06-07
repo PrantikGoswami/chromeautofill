@@ -1,0 +1,6 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+gender male,True,male,RADIO,1597407335672,1597407339437,1597407339450
+vehicle boat,True,boat,CHECKBOX,1597407340971,1597407344255,1597407344264
+description,True,,,1597407345586,1597407348533,
+Description this is a short description,True,this is a short description,TEXTAREA,1597407349356,1597407352274,1597407352282
+save,True,,,1597407353182,1597407355328,1597407355334

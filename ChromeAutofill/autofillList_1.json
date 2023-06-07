@@ -1,0 +1,104 @@
+[
+   {
+      "addressLevel1":"",
+      "addressLevel2":"Koblenz",
+      "addressLevel3":"",
+      "addressLines":"New Street 40",
+      "companyName":"",
+      "countryCode":"India",
+      "emailAddresses":[
+         "prantik@uni-koblenz.de"
+      ],
+      "fullNames":[
+         "Tom Tailor"
+      ],
+      "guid":"79303123-9d49-4228-9faf-d56b06d84ee9",
+      "languageCode":"",
+      "metadata":{
+         "isLocal":true,
+         "namepronounciation":[
+            "tom",
+            "tom tailor",
+            "song"
+         ],
+         "streetpronounciation":[
+            "new",
+            "new street"
+         ],
+         "summaryLabel":"Tom Tailor",
+         "summarySublabel":", New Street 40"
+      },
+      "phoneNumbers":[
+         "+49 15214567803"
+      ],
+      "postalCode":"56073",
+      "sortingCode":""
+   },
+   {
+      "addressLevel1":"",
+      "addressLevel2":"Kolkata",
+      "addressLevel3":"",
+      "addressLines":"Second street 36",
+      "companyName":"",
+      "countryCode":"India",
+      "emailAddresses":[
+         "prantik@uni-koblenz.de"
+      ],
+      "fullNames":[
+         "Tom Tailor"
+      ],
+      "guid":"32af63db-2441-4b7a-8f85-2257375a2825",
+      "languageCode":"",
+      "metadata":{
+         "isLocal":true,
+         "namepronounciation":[
+            "tom",
+            "tom tailor",
+            "song"
+         ],
+         "streetpronounciation":[
+            "ecstasy",
+            "barnard",
+            "second",
+            "second street"
+         ],
+         "summaryLabel":"Tom Tailor",
+         "summarySublabel":", Second street 36"
+      },
+      "phoneNumbers":[
+
+      ],
+      "postalCode":"56564",
+      "sortingCode":""
+   },
+   {
+      "addressLevel1":"",
+      "addressLevel2":"Koblenz",
+      "addressLevel3":"",
+      "addressLines":"Lohrstraße 36",
+      "companyName":"",
+      "countryCode":"Deutscheland",
+      "emailAddresses":[
+         "abc.df@gmail.com"
+      ],
+      "fullNames":[
+         "Korok Sengupta"
+      ],
+      "guid":"32af63db-2441-4b7a-8f85-2257375a7894",
+      "languageCode":"",
+      "metadata":{
+         "isLocal":true,
+         "namepronounciation":[
+         ],
+         "streetpronounciation":[
+         ],
+         "summaryLabel":"Korok Sengupta",
+         "summarySublabel":", Lohrstraße 36"
+      },
+      "phoneNumbers":[
+
+      ],
+      "postalCode":"56076",
+      "sortingCode":""
+   }
+]

@@ -1,0 +1,4 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+lastname,Keyboard +5-0,Drew,TEXT,1597004165652,,1597004168843
+profession,Autofill,detective,SELECT,1597004170878,,1597004172917
+vehicle,Autofill,boat,CHECKBOX,1597004176902,,1597004177199

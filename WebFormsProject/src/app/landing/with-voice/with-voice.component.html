@@ -1,0 +1,11 @@
+<h3>{{pageTitle}}</h3>
+<form [formGroup]="voiceForm" (ngSubmit)="onSubmit()" class="main-modal-content" *ngIf="voiceForm">
+    <div class="row">
+        <div class="col-6">
+            <button id="filledVoice" class="btn btn-primary float-right" style="width: 150px" type="button" (click)="filledForm()"> Filled Form </button>
+        </div>
+        <div class="col-6">
+            <button id="blankVoice" class="btn btn-primary" style="width: 200px" type="button" (click)="blankForm()"> Blank Form </button>
+        </div>
+    </div>
+</form>

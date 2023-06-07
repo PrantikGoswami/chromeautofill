@@ -1,0 +1,5 @@
+command,isKeyDetected,value,type,time_listen_start / focus_in_time,time_transcribed,time_inserted / focus_out_time
+country,Mouse Click,USA,SELECT,1597826621622,,1597826627522
+vehicle,Mouse Click,bike,CHECKBOX,1597826627530,,1597826629841
+range,Mouse Click,38,RANGE,1597826629848,,1597826638796
+save,Mouse Click,,SUBMIT,1597826638802,,1597826638904
